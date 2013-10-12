@@ -1,0 +1,15 @@
+{
+	"name": "suresh-tty",
+	"description": "Terminal version of SureSH",
+	"version": "0.0.0",
+	"author": "CoderPuppy",
+	"main": "./lib/index.js",
+	"bin": "./bin/index.js",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/CoderPuppy/suresh-tty"
+	},
+	"dependencies": {
+		"blessed": "0.0.25"
+	}
+}
